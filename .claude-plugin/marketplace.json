@@ -1,5 +1,8 @@
 {
   "name": "vue-skills",
+  "owner": {
+    "name": "di-han"
+  },
   "description": "A collection of skills for Vue.js development.",
   "plugins": [
     {
